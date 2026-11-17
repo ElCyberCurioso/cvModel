@@ -1,0 +1,16 @@
+# Alex Rivera — Full Stack Developer
+
+> Diseño y construyo productos digitales rápidos, escalables y accesibles. Más de 8 años convirtiendo ideas complejas en software que la gente disfruta usar.
+
+Este sitio es el currículum online de Alex Rivera. / This site is the online resume of Alex Rivera.
+
+## CV
+
+- [CV · Español (Markdown)](cv.es.md)
+- [CV · English (Markdown)](cv.en.md)
+- [JSON Resume · Español](resume.es.json)
+- [JSON Resume · English](resume.en.json)
+
+## Contact
+
+- Email: alex.rivera@example.com

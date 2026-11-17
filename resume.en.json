@@ -1,0 +1,294 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Alex Rivera",
+    "label": "Full Stack Developer",
+    "email": "alex.rivera@example.com",
+    "phone": "+34 600 000 000",
+    "summary": "I design and build fast, scalable and accessible digital products. 8+ years turning complex ideas into software people enjoy using. I'm a Full Stack developer with 8+ years of experience building web applications for startups and tech companies. I specialize in the TypeScript ecosystem: React and Next.js interfaces, Node.js APIs and AWS infrastructure. I'm obsessed with quality: clean code, tests you can trust, measurable performance and experiences that are accessible to everyone. I enjoy designing a system's architecture as much as polishing the last detail of an animation. Outside work I contribute to open source, write about web development and mentor people taking their first steps in programming.",
+    "location": {
+      "city": "Madrid, Spain"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "url": "https://github.com/"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/"
+      },
+      {
+        "network": "X",
+        "url": "https://x.com/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Nébula Labs",
+      "position": "Senior Full Stack Engineer",
+      "url": "https://example.com",
+      "location": "Remote",
+      "startDate": "2022-03",
+      "summary": "I lead development of the real-time analytics platform used by 300+ companies.",
+      "highlights": [
+        "Re-architected the frontend into micro-frontends, cutting build time by 65%.",
+        "Built a Kafka + WebSockets event pipeline processing 2M events/day.",
+        "Mentored 5 junior developers and defined the team's coding guidelines."
+      ],
+      "keywords": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Kafka",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Orbital Fintech",
+      "position": "Full Stack Developer",
+      "url": "https://example.com",
+      "location": "Madrid, Spain",
+      "startDate": "2019-06",
+      "endDate": "2022-02",
+      "summary": "Built the company's digital banking app and payment services.",
+      "highlights": [
+        "Built the new digital onboarding, increasing sign-up conversion by 38%.",
+        "Migrated monolithic services to NestJS microservices with 90% test coverage.",
+        "Cut web app load time from 4.2 s to 1.1 s with SSR and asset optimization."
+      ],
+      "keywords": [
+        "Next.js",
+        "NestJS",
+        "PostgreSQL",
+        "Docker",
+        "GraphQL"
+      ]
+    },
+    {
+      "name": "Codecraft Studio",
+      "position": "Frontend Developer",
+      "url": "https://example.com",
+      "location": "Barcelona, Spain",
+      "startDate": "2017-09",
+      "endDate": "2019-05",
+      "summary": "Digital agency: websites and applications for international clients.",
+      "highlights": [
+        "Delivered 20+ web projects for retail, travel and education clients.",
+        "Created an internal component library that sped up development by 40%."
+      ],
+      "keywords": [
+        "React",
+        "Vue.js",
+        "SASS",
+        "WordPress"
+      ]
+    },
+    {
+      "name": "Freelance",
+      "position": "Junior Web Developer",
+      "location": "Remote",
+      "startDate": "2016-01",
+      "endDate": "2017-08",
+      "summary": "First professional projects for small businesses and local entrepreneurs.",
+      "highlights": [
+        "Designed and built corporate websites and online stores for 10+ clients."
+      ],
+      "keywords": [
+        "JavaScript",
+        "PHP",
+        "MySQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Politécnica de Madrid",
+      "studyType": "B.Sc. in Computer Engineering",
+      "startDate": "2012",
+      "endDate": "2016",
+      "courses": [
+        "Software Engineering major. Final project awarded with highest honors."
+      ]
+    },
+    {
+      "institution": "Universidad Online de Tecnología",
+      "studyType": "M.Sc. in Cloud Computing",
+      "startDate": "2020",
+      "endDate": "2021",
+      "courses": [
+        "Distributed architectures, containers, serverless and cloud security."
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Certified Solutions Architect – Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2023"
+    },
+    {
+      "name": "Certified Kubernetes Application Developer",
+      "issuer": "The Linux Foundation",
+      "date": "2022"
+    },
+    {
+      "name": "Professional Scrum Master I",
+      "issuer": "Scrum.org",
+      "date": "2021"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "keywords": [
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "Vue.js"
+      ]
+    },
+    {
+      "name": "Backend",
+      "keywords": [
+        "Node.js",
+        "NestJS",
+        "Python",
+        "GraphQL",
+        "Go"
+      ]
+    },
+    {
+      "name": "Data",
+      "keywords": [
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Prisma"
+      ]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "keywords": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "GitHub Actions",
+        "Terraform"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced (C1)"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Pulse Analytics",
+      "description": "Real-time product analytics SaaS with customizable dashboards, alerts and report exports.",
+      "highlights": [
+        "Used by 300+ companies"
+      ],
+      "keywords": [
+        "Next.js",
+        "tRPC",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "url": "https://example.com"
+    },
+    {
+      "name": "DevFlow CLI",
+      "description": "Open source command-line tool that automates Git workflows, semantic releases and changelogs.",
+      "highlights": [
+        "2.1k ★ on GitHub"
+      ],
+      "keywords": [
+        "Node.js",
+        "TypeScript",
+        "Commander"
+      ],
+      "url": "https://github.com/"
+    },
+    {
+      "name": "Shopwave",
+      "description": "Headless e-commerce with payments, real-time inventory and an admin panel. Lighthouse 100 performance.",
+      "highlights": [
+        "+45% conversion"
+      ],
+      "keywords": [
+        "React",
+        "Stripe",
+        "NestJS",
+        "Docker"
+      ],
+      "url": "https://example.com"
+    },
+    {
+      "name": "Atlas Design System",
+      "description": "Accessible (WCAG AA) design system with 60+ components, design tokens and Storybook docs.",
+      "highlights": [
+        "60+ components"
+      ],
+      "keywords": [
+        "React",
+        "Storybook",
+        "CSS Variables"
+      ],
+      "url": "https://example.com"
+    },
+    {
+      "name": "Lingo AI",
+      "description": "AI-powered contextual translation assistant for support teams, integrated with Slack and Zendesk.",
+      "highlights": [
+        "12 languages"
+      ],
+      "keywords": [
+        "Python",
+        "FastAPI",
+        "LLMs",
+        "React"
+      ],
+      "url": "https://example.com"
+    },
+    {
+      "name": "Infra Blueprints",
+      "description": "Production-ready Terraform modules: VPC, EKS, RDS and observability following best practices.",
+      "highlights": [
+        "Used in 40+ repos"
+      ],
+      "keywords": [
+        "Terraform",
+        "AWS",
+        "Kubernetes"
+      ],
+      "url": "https://github.com/"
+    }
+  ],
+  "references": [
+    {
+      "name": "Laura Méndez — CTO · Nébula Labs",
+      "reference": "Alex is one of those people who raise the bar for the whole team. Their technical judgment and ability to explain complex decisions are exceptional."
+    },
+    {
+      "name": "Daniel Ortega — Founder · Shopwave",
+      "reference": "Delivered a flawless product, ahead of schedule and with constant communication. We'd work together again in a heartbeat."
+    },
+    {
+      "name": "Marta Vidal — Frontend Developer · Orbital Fintech",
+      "reference": "A patient and generous mentor. Thanks to their code reviews I learned more in six months than in years on my own."
+    }
+  ],
+  "meta": {
+    "language": "en",
+    "lastModified": "2026-11-17"
+  }
+}

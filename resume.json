@@ -1,0 +1,294 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Alex Rivera",
+    "label": "Full Stack Developer",
+    "email": "alex.rivera@example.com",
+    "phone": "+34 600 000 000",
+    "summary": "Diseño y construyo productos digitales rápidos, escalables y accesibles. Más de 8 años convirtiendo ideas complejas en software que la gente disfruta usar. Soy desarrollador Full Stack con más de 8 años de experiencia creando aplicaciones web para startups y empresas tecnológicas. Me especializo en el ecosistema TypeScript: interfaces en React y Next.js, APIs en Node.js e infraestructura en AWS. Me obsesiona la calidad: código limpio, tests que dan confianza, rendimiento medible y experiencias accesibles para todos. Disfruto tanto diseñando la arquitectura de un sistema como puliendo el último detalle de una animación. Fuera del trabajo contribuyo a proyectos open source, escribo sobre desarrollo web y mentorizo a personas que están dando sus primeros pasos en la programación.",
+    "location": {
+      "city": "Madrid, España"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "url": "https://github.com/"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/"
+      },
+      {
+        "network": "X",
+        "url": "https://x.com/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Nébula Labs",
+      "position": "Senior Full Stack Engineer",
+      "url": "https://example.com",
+      "location": "Remoto",
+      "startDate": "2022-03",
+      "summary": "Lidero el desarrollo de la plataforma de analítica en tiempo real utilizada por más de 300 empresas.",
+      "highlights": [
+        "Rediseñé la arquitectura frontend hacia micro-frontends, reduciendo el tiempo de build un 65%.",
+        "Implementé un pipeline de eventos con Kafka y WebSockets que procesa 2M de eventos/día.",
+        "Mentoricé a 5 desarrolladores junior y definí las guías de código del equipo."
+      ],
+      "keywords": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Kafka",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Orbital Fintech",
+      "position": "Full Stack Developer",
+      "url": "https://example.com",
+      "location": "Madrid, España",
+      "startDate": "2019-06",
+      "endDate": "2022-02",
+      "summary": "Desarrollo de la app de banca digital y los servicios de pagos de la compañía.",
+      "highlights": [
+        "Construí el nuevo onboarding digital, aumentando la conversión de registro un 38%.",
+        "Migré servicios monolíticos a microservicios en NestJS con 90% de cobertura de tests.",
+        "Reduje el tiempo de carga de la app web de 4,2 s a 1,1 s con SSR y optimización de assets."
+      ],
+      "keywords": [
+        "Next.js",
+        "NestJS",
+        "PostgreSQL",
+        "Docker",
+        "GraphQL"
+      ]
+    },
+    {
+      "name": "Codecraft Studio",
+      "position": "Frontend Developer",
+      "url": "https://example.com",
+      "location": "Barcelona, España",
+      "startDate": "2017-09",
+      "endDate": "2019-05",
+      "summary": "Agencia digital: desarrollo de sitios y aplicaciones para clientes internacionales.",
+      "highlights": [
+        "Entregué más de 20 proyectos web para clientes de retail, turismo y educación.",
+        "Creé una librería de componentes interna que aceleró el desarrollo un 40%."
+      ],
+      "keywords": [
+        "React",
+        "Vue.js",
+        "SASS",
+        "WordPress"
+      ]
+    },
+    {
+      "name": "Freelance",
+      "position": "Desarrollador Web Junior",
+      "location": "Remoto",
+      "startDate": "2016-01",
+      "endDate": "2017-08",
+      "summary": "Primeros proyectos profesionales para pymes y emprendedores locales.",
+      "highlights": [
+        "Diseñé y desarrollé webs corporativas y tiendas online para más de 10 clientes."
+      ],
+      "keywords": [
+        "JavaScript",
+        "PHP",
+        "MySQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Politécnica de Madrid",
+      "studyType": "Grado en Ingeniería Informática",
+      "startDate": "2012",
+      "endDate": "2016",
+      "courses": [
+        "Especialidad en Ingeniería del Software. Proyecto fin de grado con matrícula de honor."
+      ]
+    },
+    {
+      "institution": "Universidad Online de Tecnología",
+      "studyType": "Máster en Cloud Computing",
+      "startDate": "2020",
+      "endDate": "2021",
+      "courses": [
+        "Arquitecturas distribuidas, contenedores, serverless y seguridad en la nube."
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Certified Solutions Architect – Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2023"
+    },
+    {
+      "name": "Certified Kubernetes Application Developer",
+      "issuer": "The Linux Foundation",
+      "date": "2022"
+    },
+    {
+      "name": "Professional Scrum Master I",
+      "issuer": "Scrum.org",
+      "date": "2021"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "keywords": [
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "Vue.js"
+      ]
+    },
+    {
+      "name": "Backend",
+      "keywords": [
+        "Node.js",
+        "NestJS",
+        "Python",
+        "GraphQL",
+        "Go"
+      ]
+    },
+    {
+      "name": "Datos",
+      "keywords": [
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Prisma"
+      ]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "keywords": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "GitHub Actions",
+        "Terraform"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "Avanzado (C1)"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Pulse Analytics",
+      "description": "Plataforma SaaS de analítica de producto en tiempo real con dashboards personalizables, alertas y exportación de informes.",
+      "highlights": [
+        "300+ empresas lo usan"
+      ],
+      "keywords": [
+        "Next.js",
+        "tRPC",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "url": "https://example.com"
+    },
+    {
+      "name": "DevFlow CLI",
+      "description": "Herramienta de línea de comandos open source que automatiza flujos de Git, releases semánticas y changelogs.",
+      "highlights": [
+        "2.1k ★ en GitHub"
+      ],
+      "keywords": [
+        "Node.js",
+        "TypeScript",
+        "Commander"
+      ],
+      "url": "https://github.com/"
+    },
+    {
+      "name": "Shopwave",
+      "description": "E-commerce headless con pagos, inventario en tiempo real y panel de administración. Lighthouse 100 en rendimiento.",
+      "highlights": [
+        "+45% de conversión"
+      ],
+      "keywords": [
+        "React",
+        "Stripe",
+        "NestJS",
+        "Docker"
+      ],
+      "url": "https://example.com"
+    },
+    {
+      "name": "Atlas Design System",
+      "description": "Sistema de diseño accesible (WCAG AA) con más de 60 componentes, tokens de diseño y documentación en Storybook.",
+      "highlights": [
+        "60+ componentes"
+      ],
+      "keywords": [
+        "React",
+        "Storybook",
+        "CSS Variables"
+      ],
+      "url": "https://example.com"
+    },
+    {
+      "name": "Lingo AI",
+      "description": "Asistente de traducción contextual con IA para equipos de soporte, integrado con Slack y Zendesk.",
+      "highlights": [
+        "12 idiomas"
+      ],
+      "keywords": [
+        "Python",
+        "FastAPI",
+        "LLMs",
+        "React"
+      ],
+      "url": "https://example.com"
+    },
+    {
+      "name": "Infra Blueprints",
+      "description": "Colección de módulos Terraform listos para producción: VPC, EKS, RDS y observabilidad con buenas prácticas.",
+      "highlights": [
+        "Usado en 40+ repos"
+      ],
+      "keywords": [
+        "Terraform",
+        "AWS",
+        "Kubernetes"
+      ],
+      "url": "https://github.com/"
+    }
+  ],
+  "references": [
+    {
+      "name": "Laura Méndez — CTO · Nébula Labs",
+      "reference": "Alex es de esas personas que elevan el nivel de todo el equipo. Su criterio técnico y su capacidad para explicar decisiones complejas son excepcionales."
+    },
+    {
+      "name": "Daniel Ortega — Fundador · Shopwave",
+      "reference": "Entregó un producto impecable, antes de plazo y con una comunicación constante. Volveríamos a trabajar juntos sin dudarlo."
+    },
+    {
+      "name": "Marta Vidal — Frontend Developer · Orbital Fintech",
+      "reference": "Un mentor paciente y generoso. Gracias a sus revisiones de código aprendí más en seis meses que en años por mi cuenta."
+    }
+  ],
+  "meta": {
+    "language": "es",
+    "lastModified": "2026-11-17"
+  }
+}
